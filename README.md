@@ -1,4 +1,4 @@
-# proj2
+
 This is a repository for my RPG game. 
 
 Requires:
